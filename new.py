@@ -1,3 +1,3 @@
 print('hello world!')
-name = inmput("please enter your first name : ")
+name = input("please enter your first name : ")
 print("\n","Hello ",name)
